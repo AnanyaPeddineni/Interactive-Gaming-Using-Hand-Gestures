@@ -81,12 +81,12 @@ The goal is to improve game accessibility and provide an immersive gaming experi
 - Make sure your webcam is properly connected and accessible.
 
 🖥️ Output
-Chrome Dino Game
+- **Chrome Dino Game**
 - ✊ Fist – Jump (Spacebar)
 
 - 🖐️ Palm – Idle
 
-Hill Climb Racing
+- **Hill Climb Racing**
 - 🖐️ Palm – Accelerate (Right Arrow)
 
 - ✊ Fist – Brake (Left Arrow)
