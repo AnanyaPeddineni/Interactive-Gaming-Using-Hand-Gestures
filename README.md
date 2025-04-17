@@ -90,3 +90,26 @@ The goal is to improve game accessibility and provide an immersive gaming experi
    - 🖐️ Palm – Accelerate (Right Arrow)
 
    - ✊ Fist – Brake (Left Arrow)
+
+🔮 Future Work
+- Add support for games with more than two controls
+
+- Customizable gestures and mapping options
+
+- GUI for user-friendly setup and configuration
+
+- Auto-launch feature for supported games
+
+👨‍💻 Contributors
+- B Yashwanth Kumar – 21MID0010
+
+- Ananya P – 21MID0058
+
+- Dondapati Bala Manikanta Kumar – 21MID0075
+
+- Pooja R – 21MID0081
+
+- Shalini C – 21MID0082
+
+🙌 Thank You!
+Feel free to fork, improve, and enjoy this project. Happy gaming with gestures! 🎉
