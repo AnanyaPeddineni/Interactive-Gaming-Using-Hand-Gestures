@@ -80,6 +80,8 @@ The goal is to improve game accessibility and provide an immersive gaming experi
 
 - Make sure your webcam is properly connected and accessible.
 
+---
+
 🖥️ Output
 1. **Chrome Dino Game**
    - ✊ Fist – Jump (Spacebar)
@@ -91,6 +93,8 @@ The goal is to improve game accessibility and provide an immersive gaming experi
 
    - ✊ Fist – Brake (Left Arrow)
 
+---
+
 🔮 Future Work
 - Add support for games with more than two controls
 
@@ -99,6 +103,8 @@ The goal is to improve game accessibility and provide an immersive gaming experi
 - GUI for user-friendly setup and configuration
 
 - Auto-launch feature for supported games
+
+---
 
 👨‍💻 Contributors
 - B Yashwanth Kumar – 21MID0010
@@ -110,6 +116,8 @@ The goal is to improve game accessibility and provide an immersive gaming experi
 - Pooja R – 21MID0081
 
 - Shalini C – 21MID0082
+
+---
 
 🙌 Thank You!
 Feel free to fork, improve, and enjoy this project. Happy gaming with gestures! 🎉
