@@ -82,11 +82,11 @@ The goal is to improve game accessibility and provide an immersive gaming experi
 
 🖥️ Output
 Chrome Dino Game
-✊ Fist – Jump (Spacebar)
+- ✊ Fist – Jump (Spacebar)
 
-🖐️ Palm – Idle
+- 🖐️ Palm – Idle
 
 Hill Climb Racing
-🖐️ Palm – Accelerate (Right Arrow)
+- 🖐️ Palm – Accelerate (Right Arrow)
 
-✊ Fist – Brake (Left Arrow)
+- ✊ Fist – Brake (Left Arrow)
