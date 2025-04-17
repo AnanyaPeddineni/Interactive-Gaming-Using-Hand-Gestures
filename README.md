@@ -71,3 +71,9 @@ The goal is to improve game accessibility and provide an immersive gaming experi
    ```bash
    git clone https://github.com/your-username/hand-gesture-game.git
    cd hand-gesture-game
+2. Install dependencies:
+   pip install opencv-python cvzone
+3. Run the program:
+   python main.py
+
+Make sure your webcam is properly connected and accessible.
